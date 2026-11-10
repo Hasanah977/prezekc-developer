@@ -1,1 +1,0 @@
-# prezekc-developer
